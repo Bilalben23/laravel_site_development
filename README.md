@@ -5,7 +5,7 @@
 
 -   **Technologies Used**
 
-    -   _Frontend:_
+    -   **Frontend:**
 
         -   HTML
         -   CSS
